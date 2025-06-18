@@ -1,3 +1,4 @@
 flask
-pyzbar
 Pillow
+opencv-python
+pyzxing
